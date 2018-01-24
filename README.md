@@ -10,7 +10,7 @@ Shows the progress w.r.t percentage in the form of colors.
 
 **Try the example app**
 
-![](https://github.com/codesinghanoop/react-native-progress-report/blob/master/readme-assets/example.gif)
+![](https://github.com/codesinghanoop/react-native-progress-report/blob/master/Example/readme-assets/example.gif)
 
 ----------
 
