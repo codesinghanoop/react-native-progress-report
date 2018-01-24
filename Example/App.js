@@ -6,7 +6,7 @@
 
 import React, {Component} from 'react';
 import {StyleSheet, Text, View, TouchableOpacity} from 'react-native';
-import PBC from './pcb';
+import Report from 'react-native-progress-report';
 
 export default class App extends Component<{}> {
   constructor (props) {
@@ -19,7 +19,7 @@ export default class App extends Component<{}> {
     const {percentage} = this.state;
     return (
       <View style={styles.container}>
-        <PBC percentage={percentage} />
+        <Report percentage={percentage} />
         <TouchableOpacity
           style={styles.button}
           onPress={() => this.setState ({percentage: percentage + 20})}
