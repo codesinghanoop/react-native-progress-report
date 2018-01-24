@@ -1,0 +1,31 @@
+{
+  "name": "react-native-progress-report",
+  "version": "1.0.0",
+  "description": "Shows the progress w.r.t percentage in the form of colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesinghanoop/react-native-progress-report.git"
+  },
+  "keywords": [
+    "android",
+    "iOS",
+    "progress",
+    "bar",
+    "percentage"
+  ],
+  "author": "Anoop Singh (anoop100singh@gmail.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/codesinghanoop/react-native-progress-report/issues"
+  },
+  "homepage": "https://github.com/codesinghanoop/react-native-progress-report#readme",
+  "dependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.16.0",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
